@@ -36,14 +36,6 @@ Freshness-aware pricing improves customer satisfaction by aligning price with pe
 
 Customer purchasing behavior strongly correlates with visible freshness and expected remaining shelf life.
 
-Products with higher freshness scores generally experience stronger repeat purchase probability.
-
-Market demand amplification may occur during festival periods, weekends, and peak shopping hours.
-
-Evening demand for vegetables may increase in urban household markets due to post-work shopping activity.
-
-Morning inventory with premium freshness can sustain higher selling prices during early demand peaks.
-
 Dynamic pricing systems should balance profitability, waste reduction, and customer trust simultaneously.
 
 Aggressive pricing on low-quality inventory may temporarily increase sales but can negatively affect long-term customer confidence.
@@ -82,16 +74,6 @@ Fresh produce pricing should adapt dynamically to operational market conditions.
 
 Inventory nearing expiration should prioritize sell-through efficiency rather than margin preservation.
 
-Products with premium appearance quality can sustain stronger pricing resistance against market fluctuations.
-
-Low freshness combined with high inventory creates elevated waste risk scenarios.
-
-Seasonal produce may justify temporary market premiums during peak consumer interest periods.
-
-Operational pricing decisions should consider freshness, demand, stock levels, and spoilage probability simultaneously.
-
-Products with strong freshness but weak demand may still require moderate promotional pricing.
-
 Perishable retail optimization requires balancing revenue generation and spoilage reduction.
 
 Temporary market spikes may occur due to weather conditions, transportation delays, or sudden demand surges.
@@ -100,11 +82,7 @@ Inventory shortages during peak demand periods can temporarily increase acceptab
 
 High spoilage inventory should trigger vendor alerts and accelerated sales recommendations.
 
-Customer retention improves when pricing accurately reflects visible product quality.
-
 Clearance pricing strategies should intensify as shelf life approaches expiration.
-
-Perishable product pricing systems should continuously adapt to changing operational conditions.
 
 AI-generated pricing recommendations should remain constrained within realistic business pricing boundaries.
 
@@ -112,18 +90,68 @@ Vendor profitability improves when freshness-aware pricing reduces unsold spoila
 
 Products with low freshness but strong market demand may still remain commercially viable for limited durations.
 
-Inventory forecasting and freshness prediction together improve retail decision quality.
-
 Demand-sensitive pricing improves inventory efficiency in fruit and vegetable marketplaces.
-
-Customer trust is strengthened when pricing transparently reflects freshness quality.
-
-Products with premium freshness should prioritize visible marketplace positioning.
-
-Inventory with elevated spoilage risk should avoid long storage durations.
-
-Dynamic pricing systems should avoid unrealistic pricing volatility that damages customer confidence.
 
 Pricing recommendations should adapt continuously to freshness degradation over time.
 
-Operational market intelligence improves pricing consistency across perishable inventory systems.
+Tomato prices in India rise sharply during July to September monsoon months due to crop damage and logistics disruption.
+
+Overripe tomatoes can be redirected to bulk buyers for sauce production, paste manufacturing, or restaurant bulk orders.
+
+Damaged tomatoes with surface bruising but intact interior remain usable for cooked preparations and should be discounted rather than discarded.
+
+Tomato demand in urban markets peaks during winter months when supply increases and prices stabilize.
+
+Fresh tomato inventory scanned in the morning should be priced differently from the same batch scanned in the evening due to time-based quality decay.
+
+Banana bunches at near-ripe stage command the highest retail margin in local Indian markets.
+
+Overripe bananas have strong secondary demand from households for making banana bread, smoothies, and baby food preparations.
+
+Spoiled banana inventory should be separated from display stock immediately to prevent cross-contamination of fresher items.
+
+Banana shelf life reduces significantly above 35 degrees Celsius, making summer inventory management critical.
+
+Unripe bananas sold to retail should carry estimated ripening time guidance of 2 to 4 days at room temperature.
+
+APMC mandi grading systems classify produce as Grade A, Grade B, and Grade C with corresponding price differentials.
+
+Grade A produce at APMC mandis commands 40 to 60 percent premium over Grade C in major Indian wholesale markets.
+
+Manual grading at Indian mandis is inconsistent and subject to human error, creating opportunity for AI-based objective grading.
+
+Farmer income in India is directly linked to produce grade classification, making accurate AI grading a high-impact application.
+
+Cold chain logistics in pharmaceutical and vaccine distribution require real-time package integrity monitoring.
+
+Pharmaceutical packages showing visual damage should be quarantined immediately and not dispatched to distribution centers.
+
+Blood bank inventory follows a 35-day shelf life for most blood types, with strict oldest-first dispatch protocols to minimize waste.
+
+Fashion retail markdown pricing should intensify weekly for unsold stock, with 10 percent weekly discount acceleration after day 30.
+
+Restaurant and cloud kitchen ingredient management benefits from AI freshness grading to reduce daily food cost wastage.
+
+Perishable intelligence systems designed for fruit markets can be adapted to pharmaceutical, fashion, and food service industries with model retraining.
+
+The six-layer pipeline of vision, signal, context, pricing, decision, and explanation is domain-agnostic and applies across all perishable inventory categories.
+
+Weekend evening demand in urban markets increases for ready-to-cook vegetables due to household meal preparation patterns.
+
+Bulk discount offers on near-spoilage inventory are more effective than individual unit discounts at clearing stock rapidly.
+
+Time-of-day pricing adjustments of 5 to 15 percent are standard practice in dynamic perishable retail pricing systems.
+
+Products with borderline freshness scores between classification boundaries should carry uncertainty labels in vendor-facing interfaces.
+
+Waste reduction of 20 to 35 percent is achievable in perishable retail when AI-driven pricing recommendations are adopted consistently.
+
+Revenue optimization in vegetable retail requires simultaneous management of freshness decay, demand variability, and inventory pressure.
+
+Indian vegetable vendors lose an estimated 30 to 40 percent of potential revenue annually to spoilage and mispriced inventory.
+
+Real-time freshness monitoring combined with dynamic pricing reduces total food waste at the point of retail by an estimated 25 percent.
+
+AI pricing systems that explain their recommendations in plain language improve vendor adoption rates compared to black-box systems.
+
+Vendor trust in AI recommendations increases when the system provides actionable instructions rather than abstract scores.
